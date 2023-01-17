@@ -13,6 +13,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://terraform.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-terraform-icon.svg" alt="terraform" width="40" height="40"/> </a> <a href="https://packer.io" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos/packer.svg" alt="packer" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/vscode-icons/file-type-powershell.svg" alt="powershell" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos/visual-studio-code.svg" alt="vs code" width="40" height="40"/> </a> </p>
-
-
-https://api.iconify.design/simple-icons/sessionize.svg?color=%2317b394
