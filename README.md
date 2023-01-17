@@ -1,3 +1,5 @@
+<p align="left"><img align="center" src="https://cdn.kmruddy.com/web/header.png" alt="header" /></p>
+
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kmruddy&show_icons=true&locale=en" alt="kmruddy" /></p>
 
 <h3 align="left">Connect with me:</h3>
