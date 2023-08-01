@@ -1,4 +1,4 @@
-<p align="left"><img align="center" src="https://cdn.kmruddy.com/web/header.png" alt="header" /></p>
+<p align="left"><img align="center" src="https://cache.sessionize.com/image/b47a-2000o500o2-XnTUVziPS7aoCP68JsLdgz.png" alt="header" /></p>
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kmruddy&show_icons=true&locale=en" alt="kmruddy" /></p>
 
