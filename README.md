@@ -2,6 +2,11 @@
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kmruddy&show_icons=true&locale=en" alt="kmruddy" /></p>
 
+<h3 align="left">About me:</h3>
+<p align="left">Kyle Ruddy is a well-known expert in DevOps and cloud computing. With over a decade of experience in the industry, he currently leads the Technical Product Marketing group at HashiCorp. Kyle has given over 100 talks and ten keynotes at various conferences and events worldwide.</p>
+
+<p align="left">Kyle is highly regarded in the community for his contributions to various social programs, including having been a five-time Microsoft MVP and a ten-time VMware vExpert. He is known for his willingness to share knowledge and experience and is often sought after for his insights on emerging technologies and industry trends.</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.kmruddy.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://api.iconify.design/openmoji/globe-with-meridians.svg" alt="blog" width="40" height="40"/></a>
