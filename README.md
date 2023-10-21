@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://www.kmruddy.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://api.iconify.design/openmoji/globe-with-meridians.svg" alt="blog" width="40" height="40"/></a>
 <a href="https://twitter.com/kmruddy" target="blank"><img align="center" src="https://api.iconify.design/logos/twitter.svg" alt="kmruddy" height="40" width="40" /></a>
-<a href="https://mastodon.kmruddy.com/@kmruddy" target="_blank" rel="me"> <img align="center" src="https://api.iconify.design/logos/mastodon-icon.svg" alt="mastodon" width="40" height="40"/> </a>
+<a href="https://techhub.social/@kmruddy" target="_blank" rel="me"> <img align="center" src="https://api.iconify.design/logos/mastodon-icon.svg" alt="mastodon" width="40" height="40"/> </a>
 <a href="https://linkedin.com/in/kmruddy" target="blank"><img align="center" src="https://api.iconify.design/skill-icons/linkedin.svg" alt="kmruddy" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/8279879" target="blank"><img align="center" src="https://api.iconify.design/logos/stackoverflow-icon.svg" alt="kmruddy" height="40" width="40" /></a>
 <a href="https://www.youtube.com/@kmruddy" target="blank"><img align="center" src="https://api.iconify.design/logos/youtube-icon.svg" alt="kmruddy" height="40" width="40" /></a>
